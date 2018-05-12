@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35557'
     url: http://www.gutenberg.org/2009/agents/35557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31911#Synthetische-Theorie-der-Cliffordschen-Parallelen-und-der-Linearen-Linien-rter-des-Elliptisch_
 gutenberg_bookshelf:
 - Mathematics
 - DE Sachbuch
