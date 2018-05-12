@@ -1,0 +1,29 @@
+_repo: Synthetische-Theorie-der-Cliffordschen-Parallelen-und-der-Linearen-Linien-rter-des-Elliptisch__31911
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vogt, Wolfgang
+    gutenberg_agent_id: '35557'
+    url: http://www.gutenberg.org/2009/agents/35557
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2010-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31911'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parallels (Geometry)'
+- !lcc 'QA'
+- !lcsh 'Geometry, Non-Euclidean'
+title: Synthetische Theorie der Cliffordschen Parallelen und der Linearen Linienörter
+  des Elliptischen Raumes
+url: http://www.gutenberg.org/ebooks/31911
